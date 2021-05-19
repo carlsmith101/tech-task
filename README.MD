@@ -15,7 +15,7 @@ Clone the project to a suitable location and change to the root directory of the
 ```python
 git clone https://github.com/carlsmith101/tech-task.git
 
-cd techtask
+cd tech-task
 ```
 
 ### Install packages
